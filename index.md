@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Emanuel's GitHub Pages
+
+_My resume will be here once I have the time_
 
 You can use the [editor on GitHub](https://github.com/emanuelbrega/emanuelbrega.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
